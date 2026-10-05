@@ -12,7 +12,7 @@ function convertMsToMinSec(ms) {
 // **************** Update code below  **************** 
 
 
-// IDs and secret token should come from Spotify
+// Spotify ID and Access Token
 localStorage.setItem("artist_id", "0elWFr7TW8piilVRYJUe4P");
 localStorage.setItem("access_token", "");
 localStorage.setItem("track_id_1", "71YaqakPUZh3cnMYmuE5Oh");
